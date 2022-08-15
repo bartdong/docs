@@ -2,6 +2,8 @@ site_name: My Docs
 
 theme:
   name: material
+  custom_dir: overrides
+  
   static_templates:
     - 404.html
 
