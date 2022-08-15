@@ -4,4 +4,4 @@ theme:
 nav:
   - 首页: index.md
   - 测试页: test.md
-    - 子测试页: test2.md
+    - sub test: test2.md
