@@ -1,6 +1,6 @@
 site_name: bart doc
 theme:
-  name: null
+  name: mkdocs
   custom_dir: material
 
   # 404 page
