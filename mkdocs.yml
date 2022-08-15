@@ -2,5 +2,6 @@ site_name: My Docs
 theme:
   name: material
 nav:
-  - 首页: index.md  
+  - 首页: index.md
   - 测试页: test.md
+    - 子测试页: test2.md
