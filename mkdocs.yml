@@ -3,5 +3,6 @@ theme:
   name: material
 nav:
   - 首页: index.md
-  - 测试页: test.md
-    - sub test: test2.md
+  - 测试页:
+    - 测试1: test.md
+    - 测试2: test2.md
