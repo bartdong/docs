@@ -49,8 +49,8 @@ theme:
     code: Roboto Mono
   favicon: assets/favicon.png
   icon:
-    logo: logo
-    
+    logo: asserts/logo.png
+
 nav:
   - 首页: index.md
   - 测试页:
