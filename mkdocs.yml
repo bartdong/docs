@@ -3,7 +3,7 @@ site_name: My Docs
 theme:
   name: material
   custom_dir: overrides
-  
+
   static_templates:
     - 404.html
 
@@ -51,7 +51,7 @@ theme:
     code: Roboto Mono
   favicon: assets/favicon.png
   icon:
-    logo: logo
+    logo: assets/logo
 
 nav:
   - 首页: index.md
