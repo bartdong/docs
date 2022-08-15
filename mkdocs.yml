@@ -50,7 +50,7 @@ theme:
     code: Roboto Mono
   favicon: assets/favicon.png
   icon:
-    logo: assets/logo
+    logo: oclogo
 
 nav:
   - 首页: index.md
