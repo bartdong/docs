@@ -56,13 +56,31 @@ theme:
   icon:
     repo: fontawesome/brands/github
 
-extra:
-  alternate:
-    - name: English
-      link: /en/ 
-      lang: en
-    - name: 中文
-      lang: zh
+  markdown_extensions:
+    - pymdownx.highlight:
+        anchor_linenums: true
+    - pymdownx.inlinehilite
+    - pymdownx.snippets
+    - pymdownx.superfences
+
+plugins:
+  - search
+  - i18n:
+      default_language: zh
+      material_alternate: true
+      languages:
+        zh:
+          name: 中文
+          build: true
+        en:
+          name: English
+          build: true
+      nav_translations:
+        en:
+          首页: Home
+          测试页: Test
+          测试1: Test1
+          测试2: Test2
 
 nav:
   - 首页: index.md
