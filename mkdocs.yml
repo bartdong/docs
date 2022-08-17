@@ -71,10 +71,8 @@ plugins:
       languages:
         zh:
           name: 中文
-          build: true
         en:
           name: English
-          build: true
       nav_translations:
         en:
           首页: Home
