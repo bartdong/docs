@@ -12,10 +12,6 @@ jobs:
       - uses: actions/setup-python@v2
         with:
           python-version: 3.x
-<<<<<<< HEAD
-      - run: pip install mkdocs-material 
-=======
       - run: pip install mkdocs-material
->>>>>>> d738e2daeb78ffbb7b3194a6d0211255c01c72d3
       - run: pip install mkdocs-static-i18n
       - run: mkdocs gh-deploy --force
