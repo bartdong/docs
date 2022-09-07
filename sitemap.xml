@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+         <loc>.</loc>
+         <lastmod>2022-09-07</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="zh" href="zh/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="en/"/>
+         
+    </url>
+    <url>
+         <loc>test/</loc>
+         <lastmod>2022-09-07</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="zh" href="zh/test/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="en/test/"/>
+         
+    </url>
+    <url>
+         <loc>test2/</loc>
+         <lastmod>2022-09-07</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="zh" href="zh/test2/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="en/test2/"/>
+         
+    </url>
+    <url>
+         <loc>en/</loc>
+         <lastmod>2022-09-07</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="zh" href="zh/en/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="en/en/"/>
+         
+    </url>
+    <url>
+         <loc>en/test/</loc>
+         <lastmod>2022-09-07</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="zh" href="zh/en/test/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="en/en/test/"/>
+         
+    </url>
+    <url>
+         <loc>en/test2/</loc>
+         <lastmod>2022-09-07</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="zh" href="zh/en/test2/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="en/en/test2/"/>
+         
+    </url>
+</urlset>
