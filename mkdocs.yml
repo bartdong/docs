@@ -1,6 +1,6 @@
 site_name: My Docs
-repo_url: https://github.com/bartdong/bartdong.github.io
-repo_name: bartdong/bartdong.github.io
+repo_url: https://github.com/bartdong/docs
+repo_name: bartdong/docs
 edit_uri: edit/main/docs/
 
 theme:
